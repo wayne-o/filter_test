@@ -1,7 +1,7 @@
 Now getting this:
 
 ```
-rror (E_UNKNOWN) :: Encountered an unexpected error
+Error (E_UNKNOWN) :: Encountered an unexpected error
 error: column someparent.children does not exist
     at Connection.parseE (/Users/waynedouglas/filter-demo/api/node_modules/sails-postgresql/node_modules/pg/lib/connection.js:534:11)
     at Connection.parseMessage (/Users/waynedouglas/filter-demo/api/node_modules/sails-postgresql/node_modules/pg/lib/connection.js:361:17)
